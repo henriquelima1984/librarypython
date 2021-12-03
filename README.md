@@ -6,6 +6,9 @@ Nesse curso é ensinado com contribuir com projetos de código aberto.
 
 Link do curso [Python Pro](https://www.python.pro.br/)
 
+[![Updates](https://pyup.io/repos/github/henriquelima1984/librarypython/shield.svg)](https://pyup.io/repos/github/henriquelima1984/librarypython/)
+[![Python 3](https://pyup.io/repos/github/henriquelima1984/librarypython/python-3-shield.svg)](https://pyup.io/repos/github/henriquelima1984/librarypython/)
+
 Suporta versão 3 de Python
 
 Para instalar:
