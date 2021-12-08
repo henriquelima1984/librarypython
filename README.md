@@ -8,6 +8,7 @@ Link do curso [Python Pro](https://www.python.pro.br/)
 
 [![Updates](https://pyup.io/repos/github/henriquelima1984/librarypython/shield.svg)](https://pyup.io/repos/github/henriquelima1984/librarypython/)
 [![Python 3](https://pyup.io/repos/github/henriquelima1984/librarypython/python-3-shield.svg)](https://pyup.io/repos/github/henriquelima1984/librarypython/)
+[![codecov](https://codecov.io/gh/henriquelima1984/librarypython/branch/main/graph/badge.svg?token=845H1J7N7R)](https://codecov.io/gh/henriquelima1984/librarypython)
 
 Suporta versão 3 de Python
 
