@@ -22,6 +22,7 @@ jobs:
         python-version: 3.9
     - name: Install dependencies
       run: |
+        pip install codecov
         pip install -q -r requirements-dev.txt
         pip install flake8 pytest
     - name: Lint with flake8
@@ -31,4 +32,9 @@ jobs:
         # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Teste de código com pytest
-      run: pytest librarypython
+      run: |
+        pytest librarypython --cov=librarypython
+    - name: Cobertura de testes com codecov
+      uses: codecov/codecov-action@v1
+      with:
+        token: ${{secrets.CODECOV_TOKEN}}
