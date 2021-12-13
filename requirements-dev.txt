@@ -17,4 +17,6 @@ toml==0.10.2
 coverage==6.2
 pytest-cov==3.0.0
 
+pytest-mock==3.6.1
+
 -r requirements.txt
