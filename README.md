@@ -12,7 +12,7 @@ Link do curso [Python Pro](https://www.python.pro.br/)
 
 Suporta versão 3 de Python
 
-Para instalar:
+Para instalar utilizando pip:
 
 ```console
 python3 -m venv .venv
@@ -26,8 +26,19 @@ Para conferir qualidade do código:
 flake8
 ```
 
+Para instalar utilizando pipenv:
+```console
+pip install -q pipenv codecov
+pipenv sync --dev
+```
+Para conferir qualidade do código:
+```console
+pipenv run flake8
+```
+
 Tópicos a serem abordados:
 
     1. Git
     2. Virtualenv
     3. Pip
+    4. Pipenv
