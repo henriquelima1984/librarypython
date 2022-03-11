@@ -208,11 +208,10 @@
         },
         "readme-renderer": {
             "hashes": [
-                "sha256:a50a0f2123a4c1145ac6f420e1a348aafefcc9211c846e3d51df05fe3d865b7d",
-                "sha256:b512beafa6798260c7d5af3e1b1f097e58bfcd9a575da7c4ddd5e037490a5b85"
+                "sha256:262510fe6aae81ed4e94d8b169077f325614c0b1a45916a80442c6576264a9c2",
+                "sha256:dfb4d17f21706d145f7473e0b61ca245ba58e810cf9b2209a48239677f82e5b0"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==32.0"
+            "version": "==34.0"
         },
         "requests": {
             "hashes": [
