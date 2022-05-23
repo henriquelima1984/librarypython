@@ -162,11 +162,10 @@
         },
         "keyring": {
             "hashes": [
-                "sha256:9012508e141a80bd1c0b6778d5c610dd9f8c464d75ac6774248500503f972fb9",
-                "sha256:b0d28928ac3ec8e42ef4cc227822647a19f1d544f21f96457965dc01cf555261"
+                "sha256:9ef58314bcc823f426b49ec787539a2d73571b37de4cd498f839803b01acff1e",
+                "sha256:dee502cdf18a98211bef428eea11456a33c00718b2f08524fd5727c7f424bffd"
             ],
-            "markers": "python_version >= '3.7'",
-            "version": "==23.5.0"
+            "version": "==23.5.1"
         },
         "packaging": {
             "hashes": [
