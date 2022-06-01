@@ -269,11 +269,10 @@
         },
         "twine": {
             "hashes": [
-                "sha256:28460a3db6b4532bde6a5db6755cf2dce6c5020bada8a641bb2c5c7a9b1f35b8",
-                "sha256:8c120845fc05270f9ee3e9d7ebbed29ea840e41f48cd059e04733f7e1d401345"
+                "sha256:42026c18e394eac3e06693ee52010baa5313e4811d5a11050e7d48436cf41b9e",
+                "sha256:96b1cf12f7ae611a4a40b6ae8e9570215daff0611828f5fe1f37a16255ab24a0"
             ],
-            "index": "pypi",
-            "version": "==3.7.1"
+            "version": "==4.0.1"
         },
         "urllib3": {
             "hashes": [
