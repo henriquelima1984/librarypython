@@ -207,12 +207,8 @@
             "version": "==3.0.6"
         },
         "readme-renderer": {
-            "hashes": [
-                "sha256:a50a0f2123a4c1145ac6f420e1a348aafefcc9211c846e3d51df05fe3d865b7d",
-                "sha256:b512beafa6798260c7d5af3e1b1f097e58bfcd9a575da7c4ddd5e037490a5b85"
-            ],
-            "markers": "python_version >= '3.6'",
-            "version": "==32.0"
+            "hashes": [],
+            "version": "==37.1"
         },
         "requests": {
             "hashes": [
