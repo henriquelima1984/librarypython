@@ -161,12 +161,8 @@
             "version": "==0.7.1"
         },
         "keyring": {
-            "hashes": [
-                "sha256:9012508e141a80bd1c0b6778d5c610dd9f8c464d75ac6774248500503f972fb9",
-                "sha256:b0d28928ac3ec8e42ef4cc227822647a19f1d544f21f96457965dc01cf555261"
-            ],
-            "markers": "python_version >= '3.7'",
-            "version": "==23.5.0"
+            "hashes": [],
+            "version": "==23.11.0"
         },
         "packaging": {
             "hashes": [
