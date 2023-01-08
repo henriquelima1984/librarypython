@@ -177,11 +177,8 @@
             "version": "==21.3"
         },
         "pkginfo": {
-            "hashes": [
-                "sha256:542e0d0b6750e2e21c20179803e40ab50598d8066d51097a0e382cba9eb02bff",
-                "sha256:c24c487c6a7f72c66e816ab1796b96ac6c3d14d49338293d2141664330b55ffc"
-            ],
-            "version": "==1.8.2"
+            "hashes": [],
+            "version": "==1.9.6"
         },
         "pycparser": {
             "hashes": [
